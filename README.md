@@ -1,5 +1,20 @@
 # Canais no Youtube de tecnologia por mulheres
  👩‍💻 Repositório para reunir canais de tecnologia no youtube em que os cursos/assuntos sejam feitos por mulheres. 
 
-
-- Ana no Terminal: https://www.youtube.com/c/ananoterminal
+- [Ana no Terminal](https://www.youtube.com/c/ananoterminal)
+- [PyLadies Parnaíba](https://www.youtube.com/channel/UCSS9PKgt7zsaZDJ6ZeSLh6w)
+- [PyLadies Brasil](https://www.youtube.com/channel/UCzFDzkgQ3mWNvcHoTVcT2bg)
+- [Programaria](https://www.youtube.com/channel/UC6N7eSdbT5DDdrqZVeN0KGw)
+- [De Front com Aline](https://www.youtube.com/channel/UCjXL44YbiOb1hdSwVq51VCw)
+- [Papo de Dev](https://www.youtube.com/channel/UCRhKK6VrISnIWPJjYxBPKnA)
+- [Start Coding](https://www.youtube.com/channel/UCnEY-ZQhEf3Ga351x7hanVA)
+- [UX para Minas Pretas](https://www.youtube.com/channel/UCVggYMaC2A54zEYNCBZdpgg)
+- [Mais Mulheres em UX](https://www.youtube.com/channel/UCoY_vRflRgv4ZKOgSiEurRQ)
+- [Women Game Jam Brazil](https://www.youtube.com/channel/UCklKeWdVMDIr9buLiyt6Fzg)
+- [WoMakersCode](https://www.youtube.com/channel/UCC_4Qpl1-Kysd-9hRTsoX8w)
+- [Nina Da Hora](https://www.youtube.com/channel/UCQ9fpGb7sOBYvbVN9OcVtJQ)
+- [Laboratório da Julia](https://www.youtube.com/channel/UChfu9xWITOvsXYLKm7hieSQ)
+- [Mulheres na Computação](https://www.youtube.com/channel/UCM7drV5lMr-CNGFXKqzAsmw)
+- [Peixe Babel](https://www.youtube.com/channel/UCqB90BBr6eNRaJl-kl30Xxw)
+- [Attekita Dev](https://www.youtube.com/channel/UCetRsdZxDQDcgVDJd6erz6g)
+- [Thalita Mori](https://www.youtube.com/user/1001coisass)
