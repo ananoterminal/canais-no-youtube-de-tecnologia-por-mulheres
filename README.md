@@ -24,5 +24,3 @@
 - [Loiane Groner](https://www.youtube.com/user/Loianeg)
 - [Brazilians in Tech](https://www.youtube.com/channel/UC_RWtlWhzRQUCD7js75scDA)
 - [Hellomariworld](https://www.youtube.com/channel/UCMRUWpfrTMHIUZqAL6-63Ug)
-- [Attekita Dev](https://www.youtube.com/channel/UCetRsdZxDQDcgVDJd6erz6g)
-- [Peixe Babel](https://www.youtube.com/user/CanalPeixeBabel)
